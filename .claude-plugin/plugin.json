@@ -16,5 +16,6 @@
     "bidi",
     "right-to-left",
     "عربي"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
