@@ -17,5 +17,6 @@
     "right-to-left",
     "عربي"
   ],
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/mahmoudaboualnaga/arabic-rtl/blob/main/PRIVACY.md"
 }

@@ -60,6 +60,8 @@ Plugins need a paid Claude plan. Installed plugins are saved to your account, so
 - **Stores one small file**, `~/.claude/arabic-rtl/state.json`, holding chat IDs and folder paths with the answer given ("offered", "done", "declined"), so the offer isn't repeated. Delete it, or run `rtl_state.py reset`, to forget all answers.
 - **Fixing files** writes new `NAME_RTL` copies next to the originals; originals are never modified or deleted.
 
+Full details: [Privacy](PRIVACY.md).
+
 ## Skill
 
 | Skill | Use it when |
