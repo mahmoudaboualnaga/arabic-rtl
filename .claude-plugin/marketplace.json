@@ -1,0 +1,25 @@
+{
+  "name": "arabic-rtl",
+  "owner": {
+    "name": "Mahmoud Elsayed"
+  },
+  "metadata": {
+    "description": "Arabic right-to-left fixes for Claude: bidi-safe Arabic replies and docs, RTL Word/Excel/PowerPoint/HTML files.",
+    "version": "0.4.0"
+  },
+  "plugins": [
+    {
+      "name": "arabic-rtl",
+      "source": "./",
+      "description": "Makes Arabic read correctly, automatically: bidi-safe Arabic in every chat reply and doc, real right-to-left layout in Word, Excel, PowerPoint, HTML and PDF files, and an offer to fix old chats and folders.",
+      "version": "0.4.0",
+      "category": "productivity",
+      "keywords": [
+        "arabic",
+        "rtl",
+        "bidi",
+        "right-to-left"
+      ]
+    }
+  ]
+}

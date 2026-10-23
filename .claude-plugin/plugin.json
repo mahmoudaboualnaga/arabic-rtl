@@ -1,0 +1,20 @@
+{
+  "name": "arabic-rtl",
+  "displayName": "Arabic RTL",
+  "version": "0.4.0",
+  "description": "Makes Arabic read correctly, automatically: bidi-safe Arabic in every chat reply and doc, real right-to-left layout in Word, Excel, PowerPoint, HTML and PDF files, and an offer to fix old chats and folders.",
+  "author": {
+    "name": "Mahmoud Elsayed",
+    "url": "https://github.com/mahmoudaboualnaga"
+  },
+  "homepage": "https://github.com/mahmoudaboualnaga/arabic-rtl",
+  "repository": "https://github.com/mahmoudaboualnaga/arabic-rtl",
+  "license": "MIT",
+  "keywords": [
+    "arabic",
+    "rtl",
+    "bidi",
+    "right-to-left",
+    "عربي"
+  ]
+}
